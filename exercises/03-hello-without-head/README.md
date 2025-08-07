@@ -4,7 +4,7 @@ tutorial: "https://www.youtube.com/watch?v=JsnzmuQ90_Q"
 
 # `03` Hello without Head
 
-In the last exercise you had to add all the HTML basic structure of a website.
+In the last exercise, you had to add all the HTML basic structure of a website.
 
 Do the same for this exercise, but don't include the `<head>` tag.
 
